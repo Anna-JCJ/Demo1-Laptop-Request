@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="x_1734528_laptop_1_laptop_inventory" section_id="f83326ed93e5ae500dca3d6efaba101c" sys_domain="global" table="x_1734528_laptop_1_laptop_inventory" version="3" view="test">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-16 14:09:19</sys_created_on>
+            <sys_id>f273ae2d93e5ae500dca3d6efaba10f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1734528_laptop_1_laptop_inventory" display_value="x_1734528_laptop_1_laptop_inventory" name="x_1734528_laptop_1_laptop_inventory" sys_domain="global" view="f801a429936d6e500dca3d6efaba109f">f83326ed93e5ae500dca3d6efaba101c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-16 14:09:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>laptop_model</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-16 14:09:19</sys_created_on>
+            <sys_id>fa73ae2d93e5ae500dca3d6efaba10f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1734528_laptop_1_laptop_inventory" display_value="x_1734528_laptop_1_laptop_inventory" name="x_1734528_laptop_1_laptop_inventory" sys_domain="global" view="f801a429936d6e500dca3d6efaba109f">f83326ed93e5ae500dca3d6efaba101c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-16 14:09:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>laptop_assigner</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-16 14:09:19</sys_created_on>
+            <sys_id>f273ae2d93e5ae500dca3d6efaba10f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1734528_laptop_1_laptop_inventory" display_value="x_1734528_laptop_1_laptop_inventory" name="x_1734528_laptop_1_laptop_inventory" sys_domain="global" view="f801a429936d6e500dca3d6efaba109f">f83326ed93e5ae500dca3d6efaba101c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-16 14:09:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>serial_number</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-16 14:09:19</sys_created_on>
+            <sys_id>fa73ae2d93e5ae500dca3d6efaba10f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1734528_laptop_1_laptop_inventory" display_value="x_1734528_laptop_1_laptop_inventory" name="x_1734528_laptop_1_laptop_inventory" sys_domain="global" view="f801a429936d6e500dca3d6efaba109f">f83326ed93e5ae500dca3d6efaba101c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-16 14:09:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>serial_numbe0</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-16 14:09:19</sys_created_on>
+            <sys_id>f273ae2d93e5ae500dca3d6efaba10f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="x_1734528_laptop_1_laptop_inventory" display_value="x_1734528_laptop_1_laptop_inventory" name="x_1734528_laptop_1_laptop_inventory" sys_domain="global" view="f801a429936d6e500dca3d6efaba109f">f83326ed93e5ae500dca3d6efaba101c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-16 14:09:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>x_1734528_laptop_1_laptop_inventory</caption>
+            <header>false</header>
+            <name>x_1734528_laptop_1_laptop_inventory</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-16 14:08:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f83326ed93e5ae500dca3d6efaba101c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1734528_laptop_1_laptop_inventory</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Laptop Request" source="x_1734528_laptop_1">6c44dcc99325ea500dca3d6efaba105c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</sys_scope>
+            <sys_update_name>sys_ui_section_f83326ed93e5ae500dca3d6efaba101c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-16 14:08:06</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="test" name="test">f801a429936d6e500dca3d6efaba109f</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</application>
+        <file_path/>
+        <instance_id>92e8a9a53bfca210baf6048aa4e45ade</instance_id>
+        <instance_name>dev322415</instance_name>
+        <name>sys_ui_section_f83326ed93e5ae500dca3d6efaba101c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="x_1734528_laptop_1_laptop_inventory" section_id="f83326ed93e5ae500dca3d6efaba101c" sys_domain="global" table="x_1734528_laptop_1_laptop_inventory" version="3" view="test"><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-16 14:09:19</sys_created_on><sys_id>f273ae2d93e5ae500dca3d6efaba10f1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="x_1734528_laptop_1_laptop_inventory" display_value="x_1734528_laptop_1_laptop_inventory" name="x_1734528_laptop_1_laptop_inventory" sys_domain="global" view="f801a429936d6e500dca3d6efaba109f">f83326ed93e5ae500dca3d6efaba101c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-16 14:09:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>laptop_model</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-16 14:09:19</sys_created_on><sys_id>fa73ae2d93e5ae500dca3d6efaba10f1</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="x_1734528_laptop_1_laptop_inventory" display_value="x_1734528_laptop_1_laptop_inventory" name="x_1734528_laptop_1_laptop_inventory" sys_domain="global" view="f801a429936d6e500dca3d6efaba109f">f83326ed93e5ae500dca3d6efaba101c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-16 14:09:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>laptop_assigner</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-16 14:09:19</sys_created_on><sys_id>f273ae2d93e5ae500dca3d6efaba10f2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="x_1734528_laptop_1_laptop_inventory" display_value="x_1734528_laptop_1_laptop_inventory" name="x_1734528_laptop_1_laptop_inventory" sys_domain="global" view="f801a429936d6e500dca3d6efaba109f">f83326ed93e5ae500dca3d6efaba101c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-16 14:09:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>serial_number</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-16 14:09:19</sys_created_on><sys_id>fa73ae2d93e5ae500dca3d6efaba10f2</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="x_1734528_laptop_1_laptop_inventory" display_value="x_1734528_laptop_1_laptop_inventory" name="x_1734528_laptop_1_laptop_inventory" sys_domain="global" view="f801a429936d6e500dca3d6efaba109f">f83326ed93e5ae500dca3d6efaba101c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-16 14:09:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>serial_numbe0</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-16 14:09:19</sys_created_on><sys_id>f273ae2d93e5ae500dca3d6efaba10f3</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="x_1734528_laptop_1_laptop_inventory" display_value="x_1734528_laptop_1_laptop_inventory" name="x_1734528_laptop_1_laptop_inventory" sys_domain="global" view="f801a429936d6e500dca3d6efaba109f">f83326ed93e5ae500dca3d6efaba101c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-16 14:09:19</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>x_1734528_laptop_1_laptop_inventory</caption><header>false</header><name>x_1734528_laptop_1_laptop_inventory</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-16 14:08:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f83326ed93e5ae500dca3d6efaba101c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1734528_laptop_1_laptop_inventory</sys_name><sys_overrides/><sys_package display_value="Laptop Request" source="x_1734528_laptop_1">6c44dcc99325ea500dca3d6efaba105c</sys_package><sys_policy/><sys_scope display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</sys_scope><sys_update_name>sys_ui_section_f83326ed93e5ae500dca3d6efaba101c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-16 14:08:06</sys_updated_on><sys_user/><title>false</title><view display_value="test" name="test">f801a429936d6e500dca3d6efaba109f</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1114754378</payload_hash>
+        <record_name>Laptop Inventory</record_name>
+        <reverted_from/>
+        <source>2c44dcc99325ea500dca3d6efaba105e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 14:09:19</sys_created_on>
+        <sys_id>3a73ae2d93e5ae500dca3d6efaba10f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196d96d944e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 14:09:19</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>fe73ae2db8e5ae509707119cef1634f4</update_guid>
+        <update_guid_history>fe73ae2db8e5ae509707119cef1634f4:-1114754378,7c3326ed11e5ae50342090fbe6ed881e:-1995474891</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-16 14:12:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1c760b5a207b4a8c875f7980dc0c5f01</sys_id>
+        <sys_metadata>f83326ed93e5ae500dca3d6efaba101c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1734528_laptop_1_laptop_inventory</sys_name>
+        <sys_package display_value="Laptop Request" source="x_1734528_laptop_1">6c44dcc99325ea500dca3d6efaba105c</sys_package>
+        <sys_parent display_value="Laptop Inventory">c81f862593a5ae500dca3d6efaba1057</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</sys_scope>
+        <sys_scope_delete display_value="">7b0a0bea6fcb479c88fe2dee7de4a084</sys_scope_delete>
+        <sys_update_name>sys_ui_section_f83326ed93e5ae500dca3d6efaba101c</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_f83326ed93e5ae500dca3d6efaba101c">3a73ae2d93e5ae500dca3d6efaba10f5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-16 14:12:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
