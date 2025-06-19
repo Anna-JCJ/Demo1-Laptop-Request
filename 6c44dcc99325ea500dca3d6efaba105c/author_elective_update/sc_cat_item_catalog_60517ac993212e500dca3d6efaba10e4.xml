@@ -41,7 +41,7 @@
         <update_guid_history>e4517ac9d7212e5047e2a20eb6a2e6e6:409132502</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Service Catalog.Laptop Request">f7613ec993212e500dca3d6efaba1031</sys_audit_delete>
+        <sys_audit_delete display_value="">f7613ec993212e500dca3d6efaba1031</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-15 01:53:19</sys_created_on>

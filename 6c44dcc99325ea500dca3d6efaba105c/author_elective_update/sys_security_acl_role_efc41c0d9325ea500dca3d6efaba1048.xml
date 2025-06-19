@@ -41,7 +41,7 @@
         <update_guid_history>b7c41c0d8a25ea5019054e7cb052da4b:1557789350</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="x_1734528_laptop_1_laptop_request_records.x_1734528_laptop_1.admin">f2f596ad93a5ae500dca3d6efaba1043</sys_audit_delete>
+        <sys_audit_delete display_value="">f2f596ad93a5ae500dca3d6efaba1043</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-16 13:10:20</sys_created_on>

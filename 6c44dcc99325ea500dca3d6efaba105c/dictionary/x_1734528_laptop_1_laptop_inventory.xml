@@ -3,7 +3,7 @@
         <element label="Laptop model" max_length="255" name="laptop_model" type="string"/>
         <element label="Serial Number" max_length="255" name="serial_number" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element label="Serial Number" max_length="40" name="serial_numbe0" type="string"/>
         <element label="Laptop assigner" max_length="255" name="laptop_assigner" type="string"/>
+        <element label="Serial Number" max_length="40" name="serial_numbe0" type="string"/>
     </element>
 </database>

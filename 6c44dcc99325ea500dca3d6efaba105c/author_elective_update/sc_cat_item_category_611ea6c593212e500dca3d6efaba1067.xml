@@ -41,7 +41,7 @@
         <update_guid_history>251ea6c59f212e50b53fc8acf347406a:393383644</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Can We Help You?.Laptop Request">6d90ba8993212e500dca3d6efaba10ac</sys_audit_delete>
+        <sys_audit_delete display_value="">6d90ba8993212e500dca3d6efaba10ac</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-15 01:49:37</sys_created_on>

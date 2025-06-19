@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-16 12:40:07</sys_created_on>
-        <sys_id>c81f862593a5ae500dca3d6efaba10cc</sys_id>
+        <sys_id>10f4e51fc3b162107a09bfddd4013171</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_1734528_laptop_1_laptop_inventory</sys_name>
         <sys_package display_value="Laptop Request" source="x_1734528_laptop_1">6c44dcc99325ea500dca3d6efaba105c</sys_package>
         <sys_policy/>
         <sys_scope display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</sys_scope>
-        <sys_update_name>ua_table_licensing_config_c81f862593a5ae500dca3d6efaba10cc</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_10f4e51fc3b162107a09bfddd4013171</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2025-05-16 12:40:07</sys_updated_on>
     </ua_table_licensing_config>
