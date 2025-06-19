@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <callable_outputs/>
+        <copied_from/>
+        <description>Open "Laptop Request" in the "Service Portal" portal</description>
+        <display_name>Open a Catalog Item (SP)</display_name>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>3</order>
+        <step_config display_value="Open a Catalog Item (SP)">e81f02dc73e703008e6b0d573cf6a76f</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-14 13:06:32</sys_created_on>
+        <sys_id>290b2ffac34ea2507a09bfddd4013193</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open a Catalog Item (SP)</sys_name>
+        <sys_package display_value="Laptop Request" source="x_1734528_laptop_1">6c44dcc99325ea500dca3d6efaba105c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</sys_scope>
+        <sys_update_name>sys_atf_step_290b2ffac34ea2507a09bfddd4013193</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-14 13:06:32</sys_updated_on>
+        <table/>
+        <test display_value="Test-Request-Approval-Rejection-Flow">1083563ec386a2507a09bfddd40131c1</test>
+        <timeout>1970-01-01 00:00:30</timeout>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=290b2ffac34ea2507a09bfddd4013193"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>290b2ffac34ea2507a09bfddd4013193</document_key>
+        <order>110</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-14 13:06:32</sys_created_on>
+        <sys_id>3d3b673ec34ea2507a09bfddd4013167</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-14 13:06:32</sys_updated_on>
+        <value>9f12251147132100ba13a5554ee490f4</value>
+        <variable display_value="Page">83d1dadc73e703008e6b0d573cf6a779</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>290b2ffac34ea2507a09bfddd4013193</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-14 13:06:32</sys_created_on>
+        <sys_id>753b673ec34ea2507a09bfddd4013168</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-14 13:06:32</sys_updated_on>
+        <value>81b75d3147032100ba13a5554ee4902b</value>
+        <variable display_value="Portal">3731d6dc73e703008e6b0d573cf6a788</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>290b2ffac34ea2507a09bfddd4013193</document_key>
+        <order>120</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-14 13:06:32</sys_created_on>
+        <sys_id>b13b673ec34ea2507a09bfddd4013168</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-14 13:06:32</sys_updated_on>
+        <value>c559e64193212e500dca3d6efaba1014</value>
+        <variable display_value="Catalog Item">ac615adc73e703008e6b0d573cf6a702</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>290b2ffac34ea2507a09bfddd4013193</document_key>
+        <order>150</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-14 13:06:32</sys_created_on>
+        <sys_id>fd3b673ec34ea2507a09bfddd4013167</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-14 13:06:32</sys_updated_on>
+        <value/>
+        <variable display_value="Query parameters">3a6e5fb15f1013001f1e1f9f2f7313e3</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="table=var__m_atf_input_variable_e81f02dc73e703008e6b0d573cf6a76f^id=290b2ffac34ea2507a09bfddd4013193"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</application>
+        <file_path/>
+        <instance_id>2849241deb7d26d4e483f459bad0cd27</instance_id>
+        <instance_name>dev350693</instance_name>
+        <name>sys_atf_step_290b2ffac34ea2507a09bfddd4013193</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><callable_outputs/><copied_from/><description>Open "Laptop Request" in the "Service Portal" portal</description><display_name>Open a Catalog Item (SP)</display_name><inputs/><mugshots_cache_json/><notes/><order>3</order><step_config display_value="Open a Catalog Item (SP)">e81f02dc73e703008e6b0d573cf6a76f</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-14 13:06:32</sys_created_on><sys_id>290b2ffac34ea2507a09bfddd4013193</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open a Catalog Item (SP)</sys_name><sys_package display_value="Laptop Request" source="x_1734528_laptop_1">6c44dcc99325ea500dca3d6efaba105c</sys_package><sys_policy/><sys_scope display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</sys_scope><sys_update_name>sys_atf_step_290b2ffac34ea2507a09bfddd4013193</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-14 13:06:32</sys_updated_on><table/><test display_value="Test-Request-Approval-Rejection-Flow">1083563ec386a2507a09bfddd40131c1</test><timeout>1970-01-01 00:00:30</timeout><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=290b2ffac34ea2507a09bfddd4013193"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>290b2ffac34ea2507a09bfddd4013193</document_key><order>110</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-14 13:06:32</sys_created_on><sys_id>3d3b673ec34ea2507a09bfddd4013167</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-14 13:06:32</sys_updated_on><value>9f12251147132100ba13a5554ee490f4</value><variable display_value="Page">83d1dadc73e703008e6b0d573cf6a779</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>290b2ffac34ea2507a09bfddd4013193</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-14 13:06:32</sys_created_on><sys_id>753b673ec34ea2507a09bfddd4013168</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-14 13:06:32</sys_updated_on><value>81b75d3147032100ba13a5554ee4902b</value><variable display_value="Portal">3731d6dc73e703008e6b0d573cf6a788</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>290b2ffac34ea2507a09bfddd4013193</document_key><order>120</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-14 13:06:32</sys_created_on><sys_id>b13b673ec34ea2507a09bfddd4013168</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-14 13:06:32</sys_updated_on><value>c559e64193212e500dca3d6efaba1014</value><variable display_value="Catalog Item">ac615adc73e703008e6b0d573cf6a702</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>290b2ffac34ea2507a09bfddd4013193</document_key><order>150</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-14 13:06:32</sys_created_on><sys_id>fd3b673ec34ea2507a09bfddd4013167</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-14 13:06:32</sys_updated_on><value/><variable display_value="Query parameters">3a6e5fb15f1013001f1e1f9f2f7313e3</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="table=var__m_atf_input_variable_e81f02dc73e703008e6b0d573cf6a76f^id=290b2ffac34ea2507a09bfddd4013193"/></record_update>]]></payload>
+        <payload_hash>1567649073</payload_hash>
+        <record_name>Open a Catalog Item (SP)</record_name>
+        <reverted_from/>
+        <source>1105a99bc3b162107a09bfddd40131b1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-14 13:06:32</sys_created_on>
+        <sys_id>713b673ec34ea2507a09bfddd401316b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1976e8c86260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-14 13:06:32</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>753b673ee04ea2504e886f697171476a</update_guid>
+        <update_guid_history>753b673ee04ea2504e886f697171476a:1567649073</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-14 13:13:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>445f353490df4300a71a14096d5f6e90</sys_id>
+        <sys_metadata>290b2ffac34ea2507a09bfddd4013193</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open a Catalog Item (SP)</sys_name>
+        <sys_package display_value="Laptop Request" source="x_1734528_laptop_1">6c44dcc99325ea500dca3d6efaba105c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</sys_scope>
+        <sys_scope_delete display_value="">7b0a0bea6fcb479c88fe2dee7de4a084</sys_scope_delete>
+        <sys_update_name>sys_atf_step_290b2ffac34ea2507a09bfddd4013193</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_290b2ffac34ea2507a09bfddd4013193">713b673ec34ea2507a09bfddd401316b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-14 13:13:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

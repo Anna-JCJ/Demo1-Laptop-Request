@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <callable_outputs/>
+        <copied_from/>
+        <description>Click the component: 'Button &lt;button&gt;: Reject', Page area: 'default'</description>
+        <display_name>Click Component (Custom UI)</display_name>
+        <inputs/>
+        <mugshots_cache_json>{"17b2dccb1044eaac6deea2b5ef22bb71":"{\"area\":\"Approvals\",\"sn_atf_mugshot_short_description\":\"Button &lt;button&gt;: Reject\",\"inner_text\":\"Reject\",\"sn_atf_mugshot_long_description\":\"Button &lt;button&gt; [reject_button_a174d34bc3cee2507a09bfddd40131b7]: Reject in page area Approvals\",\"methods\":[\"click\"],\"sn_atf_mugshot_label\":\"Reject\",\"index\":1,\"type\":\"submit\",\"version\":\"26.0\",\"sn_atf_mugshot_label_for_label_path\":\"\",\"interesting_element_path\":[\"body\",\"div\",\"div\",\"sp-page-row\",\"span\",\"div\",\"button\"],\"get_value_result\":\"Reject\",\"sn_atf_mugshot_tag_display_name\":\"Button &lt;button&gt;\",\"name\":\"reject\",\"sn_atf_mugshot_value\":\"Reject\",\"tag\":\"button\",\"isDisabled\":false,\"id\":\"reject_button_a174d34bc3cee2507a09bfddd40131b7\",\"label_path\":[\"default\"],\"hash\":\"17b2dccb1044eaac6deea2b5ef22bb71\",\"html_value\":\"\"}"}</mugshots_cache_json>
+        <notes/>
+        <order>8</order>
+        <step_config display_value="Click Component (Custom UI)">def25c4b73730300c79260bdfaf6a700</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-15 06:11:03</sys_created_on>
+        <sys_id>33959f87c3cee2507a09bfddd4013178</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>Click Component (Custom UI)</sys_name>
+        <sys_package display_value="Laptop Request" source="x_1734528_laptop_1">6c44dcc99325ea500dca3d6efaba105c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</sys_scope>
+        <sys_update_name>sys_atf_step_33959f87c3cee2507a09bfddd4013178</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-16 08:11:02</sys_updated_on>
+        <table/>
+        <test display_value="Test-Request-Rejection-Flow">1083563ec386a2507a09bfddd40131c1</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="delete_multiple" query="document_key=33959f87c3cee2507a09bfddd4013178"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_atf_step</document>
+        <document_key>33959f87c3cee2507a09bfddd4013178</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-15 06:11:03</sys_created_on>
+        <sys_id>19b51f8bc3cee2507a09bfddd4013165</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-15 06:11:03</sys_updated_on>
+        <value>17b2dccb1044eaac6deea2b5ef22bb71</value>
+        <variable display_value="Component">ee05588b73730300c79260bdfaf6a749</variable>
+    </sys_variable_value>
+</record_update>

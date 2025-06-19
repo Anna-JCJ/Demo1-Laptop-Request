@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="0a9ecae193a5ae500dca3d6efaba1074" label="Laptop Models" max_length="40" name="x_1734528_laptop_1_laptop_models" type="collection">
-        <element label="Laptop model" max_length="255" name="laptop_model" type="string"/>
+        <element display="true" label="Laptop model" max_length="255" name="laptop_model" type="string"/>
     </element>
 </database>

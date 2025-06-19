@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-16 08:45:50</sys_created_on>
+        <sys_id>ad9241a7c30e66507a09bfddd401317a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1083563ec386a2507a09bfddd40131c1</sys_name>
+        <sys_package display_value="Laptop Request" source="x_1734528_laptop_1">6c44dcc99325ea500dca3d6efaba105c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_ad9241a7c30e66507a09bfddd401317a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-16 08:45:50</sys_updated_on>
+        <test display_value="Test-Request-Rejection-Flow">1083563ec386a2507a09bfddd40131c1</test>
+        <test_suite display_value="Catalog item1 Test">d3014127c30e66507a09bfddd4013196</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>

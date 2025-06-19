@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <callable_outputs/>
+        <copied_from/>
+        <description>Click the component: 'Button &lt;a&gt;: Approvals 1', Page area: 'Primary &gt; Header &gt; My Approvals'</description>
+        <display_name>Click Component (Custom UI)</display_name>
+        <inputs/>
+        <mugshots_cache_json>{"148f0c9b91b25114d9d776859f44fead":"{\"area\":\"Stock Header &gt; SP Header Menu\",\"sn_atf_mugshot_short_description\":\"Button &lt;a&gt;: Approvals 1\",\"inner_text\":\"Approvals 1\",\"role\":\"button\",\"sn_atf_mugshot_long_description\":\"Button &lt;a&gt;: Approvals 1 in page area Stock Header &gt; SP Header Menu\",\"methods\":[\"click\"],\"sn_atf_mugshot_label\":\"Approvals 1\",\"index\":0,\"type\":\"\",\"version\":\"26.0\",\"sn_atf_mugshot_label_for_label_path\":\"My Approvals\",\"interesting_element_path\":[\"body\",\"div\",\"ul\",\"a\"],\"get_value_result\":\"Approvals 1\",\"sn_atf_mugshot_tag_display_name\":\"Button &lt;a&gt;\",\"sn_atf_mugshot_value\":\"\",\"tag\":\"a\",\"isDisabled\":false,\"label_path\":[\"Primary\",\"Header\",\"My Approvals\"],\"aria-label\":\"Approvals: My Approvals: 1 pending approval\",\"hash\":\"148f0c9b91b25114d9d776859f44fead\",\"data-original-title\":\"My Approvals\"}"}</mugshots_cache_json>
+        <notes/>
+        <order>8</order>
+        <step_config display_value="Click Component (Custom UI)">def25c4b73730300c79260bdfaf6a700</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-15 05:33:09</sys_created_on>
+        <sys_id>d87ccb8fc38ee2507a09bfddd4013169</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Click Component (Custom UI)</sys_name>
+        <sys_package display_value="Laptop Request" source="x_1734528_laptop_1">6c44dcc99325ea500dca3d6efaba105c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</sys_scope>
+        <sys_update_name>sys_atf_step_d87ccb8fc38ee2507a09bfddd4013169</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-15 05:33:09</sys_updated_on>
+        <table/>
+        <test display_value="Test-Request-Approval-Rejection-Flow">1083563ec386a2507a09bfddd40131c1</test>
+        <timeout/>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=d87ccb8fc38ee2507a09bfddd4013169"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>d87ccb8fc38ee2507a09bfddd4013169</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-15 05:33:09</sys_created_on>
+        <sys_id>4e0d8b8fc38ee2507a09bfddd401311d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-15 05:33:09</sys_updated_on>
+        <value>148f0c9b91b25114d9d776859f44fead</value>
+        <variable display_value="Component">ee05588b73730300c79260bdfaf6a749</variable>
+    </sys_variable_value>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</application>
+        <file_path/>
+        <instance_id>2849241deb7d26d4e483f459bad0cd27</instance_id>
+        <instance_name>dev350693</instance_name>
+        <name>sys_atf_step_d87ccb8fc38ee2507a09bfddd4013169</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><callable_outputs/><copied_from/><description>Click the component: 'Button &lt;a&gt;: Approvals 1', Page area: 'Primary &gt; Header &gt; My Approvals'</description><display_name>Click Component (Custom UI)</display_name><inputs/><mugshots_cache_json>{"148f0c9b91b25114d9d776859f44fead":"{\"area\":\"Stock Header &gt; SP Header Menu\",\"sn_atf_mugshot_short_description\":\"Button &lt;a&gt;: Approvals 1\",\"inner_text\":\"Approvals 1\",\"role\":\"button\",\"sn_atf_mugshot_long_description\":\"Button &lt;a&gt;: Approvals 1 in page area Stock Header &gt; SP Header Menu\",\"methods\":[\"click\"],\"sn_atf_mugshot_label\":\"Approvals 1\",\"index\":0,\"type\":\"\",\"version\":\"26.0\",\"sn_atf_mugshot_label_for_label_path\":\"My Approvals\",\"interesting_element_path\":[\"body\",\"div\",\"ul\",\"a\"],\"get_value_result\":\"Approvals 1\",\"sn_atf_mugshot_tag_display_name\":\"Button &lt;a&gt;\",\"sn_atf_mugshot_value\":\"\",\"tag\":\"a\",\"isDisabled\":false,\"label_path\":[\"Primary\",\"Header\",\"My Approvals\"],\"aria-label\":\"Approvals: My Approvals: 1 pending approval\",\"hash\":\"148f0c9b91b25114d9d776859f44fead\",\"data-original-title\":\"My Approvals\"}"}</mugshots_cache_json><notes/><order>8</order><step_config display_value="Click Component (Custom UI)">def25c4b73730300c79260bdfaf6a700</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-15 05:33:09</sys_created_on><sys_id>d87ccb8fc38ee2507a09bfddd4013169</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Click Component (Custom UI)</sys_name><sys_package display_value="Laptop Request" source="x_1734528_laptop_1">6c44dcc99325ea500dca3d6efaba105c</sys_package><sys_policy/><sys_scope display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</sys_scope><sys_update_name>sys_atf_step_d87ccb8fc38ee2507a09bfddd4013169</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-15 05:33:09</sys_updated_on><table/><test display_value="Test-Request-Approval-Rejection-Flow">1083563ec386a2507a09bfddd40131c1</test><timeout/><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=d87ccb8fc38ee2507a09bfddd4013169"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>d87ccb8fc38ee2507a09bfddd4013169</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-15 05:33:09</sys_created_on><sys_id>4e0d8b8fc38ee2507a09bfddd401311d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-15 05:33:09</sys_updated_on><value>148f0c9b91b25114d9d776859f44fead</value><variable display_value="Component">ee05588b73730300c79260bdfaf6a749</variable></sys_variable_value></record_update>]]></payload>
+        <payload_hash>-1896548246</payload_hash>
+        <record_name>Click Component (Custom UI)</record_name>
+        <reverted_from/>
+        <source>1105a99bc3b162107a09bfddd40131b1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-15 05:33:09</sys_created_on>
+        <sys_id>8e0d8b8fc38ee2507a09bfddd4013120</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1977213cb8c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-15 05:33:09</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>420d8b8f568ee25063d293f8e7834d20</update_guid>
+        <update_guid_history>420d8b8f568ee25063d293f8e7834d20:-1896548246</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-15 05:59:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>7d1566b3904f45c49a74571d15451610</sys_id>
+        <sys_metadata>d87ccb8fc38ee2507a09bfddd4013169</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Click Component (Custom UI)</sys_name>
+        <sys_package display_value="Laptop Request" source="x_1734528_laptop_1">6c44dcc99325ea500dca3d6efaba105c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</sys_scope>
+        <sys_scope_delete display_value="">7b0a0bea6fcb479c88fe2dee7de4a084</sys_scope_delete>
+        <sys_update_name>sys_atf_step_d87ccb8fc38ee2507a09bfddd4013169</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_d87ccb8fc38ee2507a09bfddd4013169">8e0d8b8fc38ee2507a09bfddd4013120</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-15 05:59:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

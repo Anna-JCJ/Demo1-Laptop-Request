@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step">
+    <sys_atf_step action="DELETE">
+        <active>true</active>
+        <callable_outputs/>
+        <copied_from/>
+        <description>Validate that an email was generated matching query:
+Recipients = {{Step 1: Impersonate.User.Email}}
+and Subject contains Completed {{Step 5: Run Server Side Script.Item Number}}
+With a failure timeout of 100 Seconds</description>
+        <display_name>Validate Outbound Email</display_name>
+        <inputs/>
+        <inputs/>
+        <mugshots_cache_json/>
+        <notes/>
+        <order>16</order>
+        <step_config display_value="Validate Outbound Email">32911152c3833300eaac11fe81d3ae82</step_config>
+        <sys_class_name>sys_atf_step</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 01:06:14</sys_created_on>
+        <sys_id>ba15fe1cc312aa507a09bfddd4013161</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>Validate Outbound Email</sys_name>
+        <sys_package display_value="Laptop Request" source="x_1734528_laptop_1">6c44dcc99325ea500dca3d6efaba105c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</sys_scope>
+        <sys_update_name>sys_atf_step_ba15fe1cc312aa507a09bfddd4013161</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 04:36:30</sys_updated_on>
+        <table/>
+        <test display_value="Test-Request-Approval-Flow">9df0f9f7c3c2e6507a09bfddd4013160</test>
+        <timeout>1970-01-01 00:01:40</timeout>
+        <warning_message/>
+    </sys_atf_step>
+    <sys_variable_value action="DELETE" query="document_key=ba15fe1cc312aa507a09bfddd4013161"/>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>ba15fe1cc312aa507a09bfddd4013161</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 01:06:14</sys_created_on>
+        <sys_id>5b467e1cc312aa507a09bfddd40131ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 01:06:14</sys_updated_on>
+        <value>sys_email</value>
+        <variable display_value="Table">80625552c3833300eaac11fe81d3aedc</variable>
+    </sys_variable_value>
+    <sys_variable_value action="DELETE">
+        <document>sys_atf_step</document>
+        <document_key>ba15fe1cc312aa507a09bfddd4013161</document_key>
+        <order>100</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 01:06:14</sys_created_on>
+        <sys_id>97467e1cc312aa507a09bfddd40131ae</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 04:36:30</sys_updated_on>
+        <value>recipients={{step['11f0f9f7c3c2e6507a09bfddd4013166'].user.email}}^subjectLIKECompleted {{step['edf0397bc3c2e6507a09bfddd401312f'].u_item_number}}^EQ</value>
+        <variable display_value="conditions">7d821952c3833300eaac11fe81d3ae2e</variable>
+    </sys_variable_value>
+    <sys_element_mapping action="DELETE" query="id=ba15fe1cc312aa507a09bfddd4013161"/>
+    <sys_element_mapping action="DELETE">
+        <field>conditions</field>
+        <id>ba15fe1cc312aa507a09bfddd4013161</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 01:06:14</sys_created_on>
+        <sys_id>53467e1cc312aa507a09bfddd40131ae</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 04:36:30</sys_updated_on>
+        <table>var__m_atf_input_variable_32911152c3833300eaac11fe81d3ae82</table>
+        <value>recipients={{step['11f0f9f7c3c2e6507a09bfddd4013166'].user.email}}^subjectLIKECompleted {{step['edf0397bc3c2e6507a09bfddd401312f'].u_item_number}}^EQ</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="DELETE">
+        <field>table_name</field>
+        <id>ba15fe1cc312aa507a09bfddd4013161</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 01:06:14</sys_created_on>
+        <sys_id>17467e1cc312aa507a09bfddd40131ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 01:06:14</sys_updated_on>
+        <table>var__m_atf_input_variable_32911152c3833300eaac11fe81d3ae82</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</application>
+        <file_path/>
+        <instance_id>2849241deb7d26d4e483f459bad0cd27</instance_id>
+        <instance_name>dev350693</instance_name>
+        <name>sys_atf_step_ba15fe1cc312aa507a09bfddd4013161</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_step"><sys_atf_step action="INSERT_OR_UPDATE"><active>true</active><callable_outputs/><copied_from/><description>Validate that an email was generated matching query:
+Recipients = {{Step 1: Impersonate.User.Email}}
+and Subject contains Completed {{Step 5: Run Server Side Script.Item Number}}
+With a failure timeout of 100 Seconds</description><display_name>Validate Outbound Email</display_name><inputs/><inputs/><mugshots_cache_json/><notes/><order>16</order><step_config display_value="Validate Outbound Email">32911152c3833300eaac11fe81d3ae82</step_config><sys_class_name>sys_atf_step</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-19 01:06:14</sys_created_on><sys_id>ba15fe1cc312aa507a09bfddd4013161</sys_id><sys_mod_count>16</sys_mod_count><sys_name>Validate Outbound Email</sys_name><sys_package display_value="Laptop Request" source="x_1734528_laptop_1">6c44dcc99325ea500dca3d6efaba105c</sys_package><sys_policy/><sys_scope display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</sys_scope><sys_update_name>sys_atf_step_ba15fe1cc312aa507a09bfddd4013161</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-19 04:36:30</sys_updated_on><table/><test display_value="Test-Request-Approval-Flow">9df0f9f7c3c2e6507a09bfddd4013160</test><timeout>1970-01-01 00:01:40</timeout><warning_message/></sys_atf_step><sys_variable_value action="delete_multiple" query="document_key=ba15fe1cc312aa507a09bfddd4013161"/><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>ba15fe1cc312aa507a09bfddd4013161</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-19 01:06:14</sys_created_on><sys_id>5b467e1cc312aa507a09bfddd40131ae</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-19 01:06:14</sys_updated_on><value>sys_email</value><variable display_value="Table">80625552c3833300eaac11fe81d3aedc</variable></sys_variable_value><sys_variable_value action="INSERT_OR_UPDATE"><document>sys_atf_step</document><document_key>ba15fe1cc312aa507a09bfddd4013161</document_key><order>100</order><sys_class_name>sys_variable_value</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-19 01:06:14</sys_created_on><sys_id>97467e1cc312aa507a09bfddd40131ae</sys_id><sys_mod_count>13</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-19 04:36:30</sys_updated_on><value>recipients={{step['11f0f9f7c3c2e6507a09bfddd4013166'].user.email}}^subjectLIKECompleted {{step['edf0397bc3c2e6507a09bfddd401312f'].u_item_number}}^EQ</value><variable display_value="conditions">7d821952c3833300eaac11fe81d3ae2e</variable></sys_variable_value><sys_element_mapping action="delete_multiple" query="id=ba15fe1cc312aa507a09bfddd4013161"/><sys_element_mapping action="INSERT_OR_UPDATE"><field>conditions</field><id>ba15fe1cc312aa507a09bfddd4013161</id><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-19 01:06:14</sys_created_on><sys_id>53467e1cc312aa507a09bfddd40131ae</sys_id><sys_mod_count>13</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-19 04:36:30</sys_updated_on><table>var__m_atf_input_variable_32911152c3833300eaac11fe81d3ae82</table><value>recipients={{step['11f0f9f7c3c2e6507a09bfddd4013166'].user.email}}^subjectLIKECompleted {{step['edf0397bc3c2e6507a09bfddd401312f'].u_item_number}}^EQ</value></sys_element_mapping><sys_element_mapping action="INSERT_OR_UPDATE"><field>table_name</field><id>ba15fe1cc312aa507a09bfddd4013161</id><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-19 01:06:14</sys_created_on><sys_id>17467e1cc312aa507a09bfddd40131ae</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-19 01:06:14</sys_updated_on><table>var__m_atf_input_variable_32911152c3833300eaac11fe81d3ae82</table><value/></sys_element_mapping></record_update>]]></payload>
+        <payload_hash>2096582113</payload_hash>
+        <record_name>Validate Outbound Email</record_name>
+        <reverted_from/>
+        <source>1105a99bc3b162107a09bfddd40131b1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 04:36:30</sys_created_on>
+        <sys_id>9b66af50c356aa507a09bfddd40131b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19786795f2b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 04:36:30</sys_updated_on>
+        <type>Test Step</type>
+        <update_guid>1366af500056aa50659821c4aa4354b8</update_guid>
+        <update_guid_history>1366af500056aa50659821c4aa4354b8:2096582113,36a423dcb816aa508d7f6e0cfca74715:-490196584,1793635c2516aa50e268c134104cfe96:742480272,c8c2a31c7c16aa508a48d296d58e891a:-308665620,87826fd89816aa5081e8b21a5dfe9e96:-1777933508,057d93142316aa5083d48c5c9cea2c41:-102106486,02dc1f105a16aa508970c3b8fda155d3:619164954,72acdf901a16aa50e8e26d662f349522:852036354,619c5f901016aa50816b2d90d355530f:19890722,184f8f50dcd2aa501ec4762f3884d251:-170888016,9d2e07109fd2aa50449cce0ff6880a8d:621328847,017d43dc8a92aa5000588283d5a680e7:-737092253,ffac039c6c92aa50b4b846941c37cb66:98867488,e9aa4b98f692aa5066b594ef376c2e76:-971344511,9f467e1c2012aa50324944f54ab835b0:630401715</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-19 04:50:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_step">sys_atf_step</sys_db_object>
+        <sys_id>11574d6109e44daa8f41239d12414b51</sys_id>
+        <sys_metadata>ba15fe1cc312aa507a09bfddd4013161</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Validate Outbound Email</sys_name>
+        <sys_package display_value="Laptop Request" source="x_1734528_laptop_1">6c44dcc99325ea500dca3d6efaba105c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Laptop Request">6c44dcc99325ea500dca3d6efaba105c</sys_scope>
+        <sys_scope_delete display_value="">7b0a0bea6fcb479c88fe2dee7de4a084</sys_scope_delete>
+        <sys_update_name>sys_atf_step_ba15fe1cc312aa507a09bfddd4013161</sys_update_name>
+        <sys_update_version display_value="sys_atf_step_ba15fe1cc312aa507a09bfddd4013161">9b66af50c356aa507a09bfddd40131b8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-19 04:50:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
